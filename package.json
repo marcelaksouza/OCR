@@ -1,0 +1,21 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "node-tesseract-ocr": "^1.0.0",
+    "tesseract.js": "^2.0.0-alpha.15",
+    "textract": "^2.5.0"
+  }
+}
