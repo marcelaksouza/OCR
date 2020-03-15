@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310776478189",
+    "firebase_url": "https://labelapp-32b8a.firebaseio.com",
+    "project_id": "labelapp-32b8a",
+    "storage_bucket": "labelapp-32b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310776478189:android:1b628f1e66a1924c148fe4",
+        "android_client_info": {
+          "package_name": "com.madcode.ocr_science"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310776478189-v6hov0bdkl6vmnkmbacs3k9d2bo8pggh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDal7f-UHoNghMbHHsZPIMnnXBuV-lYhFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310776478189-v6hov0bdkl6vmnkmbacs3k9d2bo8pggh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
